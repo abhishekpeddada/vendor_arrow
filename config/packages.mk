@@ -20,6 +20,7 @@ PRODUCT_PACKAGES += \
     DuckDuckGo \
     MotoCalculator \
     ViMusic \
+    GameSpace \
     LatinIME \
     Launcher3QuickStep \
     ParallelSpace \
