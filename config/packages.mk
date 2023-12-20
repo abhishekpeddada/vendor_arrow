@@ -18,7 +18,8 @@ PRODUCT_PACKAGES += \
     BluetoothExt \
     SimpleCalendar \
     DuckDuckGo \
-    ExactCalculator \
+    MotoCalculator \
+    ViMusic \
     LatinIME \
     Launcher3QuickStep \
     ParallelSpace \
