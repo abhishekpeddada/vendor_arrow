@@ -223,10 +223,6 @@ PRODUCT_PACKAGES += \
 
 ifeq ($(TARGET_HAS_UDFPS),true)
 PRODUCT_PACKAGES += \
-    UdfpsIcons
-
-ifeq ($(EXTRA_UDFPS_ANIMATIONS),true)
-PRODUCT_PACKAGES += \
+    UdfpsIcons \
     UdfpsAnimations
-endif
 endif
